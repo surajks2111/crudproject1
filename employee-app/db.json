@@ -1,0 +1,27 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Suraj",
+      "email": "suraj@hotmail.com",
+      "mobile": "882588xxx",
+      "location": "Chennai"
+    },
+    {
+      "name": "Imbaraj",
+      "email": "imbaraj@hotmail.com",
+      "mobile": "8565751525",
+      "location": "Chennai",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "brucewayne@knight.com",
+      "mobile": "882588xxxx",
+      "location": "Gowtham",
+      "active": true,
+      "id": 3
+    }
+  ]
+}
